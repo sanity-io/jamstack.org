@@ -48,7 +48,7 @@ Or go to [sanity.io/create](https://www.sanity.io/create) to get started with a 
 - [Secure, scalable and GDPR compliant](https://www.sanity.io/security)
 - [Zero config Graph Oriented Query Language (GROQ)](https://www.sanity.io/docs/how-queries-work), and [GraphQL API](https://www.sanity.io/docs/graphql)
 - [Helpful and friendly developer community](https://slack.sanity.io)
-- Build the CMS solution you need:[React CMS](https://www.sanity.io/react-cms), [eCommerce CMS](https://www.sanity.io/ecommerce-cms), [Gatsby CMS](https://www.sanity.io/gatsby-cms), [Jamstack CMS](https://www.sanity.io/Jamstack-cms), [Mobile CMS](https://www.sanity.io/mobile-cms)
+- Build the CMS solution you need:[React CMS](https://www.sanity.io/react-cms), [eCommerce CMS](https://www.sanity.io/ecommerce-cms), [Gatsby CMS](https://www.sanity.io/gatsby-cms), [Jamstack CMS](https://www.sanity.io/Jamstack-cms), [Mobile CMS](https://www.sanity.io/mobile-cms), [Vue CMS](https://www.sanity.io/guides/vue-cms-introduction)
 
 ### [Structured Content](https://www.sanity.io/structured-content)
 
@@ -57,4 +57,4 @@ Or go to [sanity.io/create](https://www.sanity.io/create) to get started with a 
 - [Upload images and transform them on demand](https://www.sanity.io/docs/asset-pipeline), and integrate with any digital asset manager
 - [Customizable previews](https://www.sanity.io/blog/evolve-authoring-experiences-with-views-and-split-panes)
 - Query images for metadata like dominant colors, sizes, geo-location, and EXIF metadata
-- [See how rich text that can be serialized into any markup language](https://www.sanity.io/guides/introduction-to-portable-text), and learn about the Sanity [Rich Text Editor](https://www.sanity.io/rich-text-editor)
+- [See how rich text that can be serialized into any markup language](https://www.sanity.io/guides/introduction-to-portable-text), and learn about the Sanity [Rich Text Editor](https://www.sanity.io/docs/what-you-need-to-know-about-block-text)
